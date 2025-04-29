@@ -61,6 +61,7 @@ by **Frank M. Carrano** & **Timothy M. Henry** (Pearson 2019):
 
 * `src/Dictionary/DictionaryInterface.java`  
 * `src/SortArray/Iterative/ArraySorter.java`
+*`src/SortArray/Dictionary/SortedVectorDictionary.java` 
 
 They are included **solely for educational use**.  
 If you redistribute this repository, ensure that your use of those files
